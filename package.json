@@ -1,0 +1,16 @@
+{
+  "name": "flexupdatemcjsbot",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "mineflayer": "^4.29.0"
+  }
+}
